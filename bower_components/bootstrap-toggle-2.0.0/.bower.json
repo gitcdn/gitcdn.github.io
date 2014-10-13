@@ -33,7 +33,7 @@
   "_resolution": {
     "type": "version",
     "tag": "2.0.0",
-    "commit": "16b5f0c5df5e3a53e09aa66101b4e19eb5a60b22"
+    "commit": "b5c88ade4f5fbb45de568ff224c2a955a6ceebac"
   },
   "_source": "git://github.com/minhur/bootstrap-toggle.git",
   "_target": "2.0.0",

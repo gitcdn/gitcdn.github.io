@@ -19,8 +19,8 @@
     "Min Hur <min.hur@gmail.com>"
   ],
   "main": [
-    "./dist/js/bootstrap-toggle.min.js",
-    "./dist/css/bootstrap-toggle.min.css"
+    "./js/bootstrap-toggle.min.js",
+    "./css/bootstrap-toggle.min.css"
   ],
   "ignore": [
     "**/.*",
@@ -33,7 +33,7 @@
   "_resolution": {
     "type": "version",
     "tag": "2.0.0",
-    "commit": "b5c88ade4f5fbb45de568ff224c2a955a6ceebac"
+    "commit": "49cfd2bf51c7c9003704fcc5e16b2644e8302a81"
   },
   "_source": "git://github.com/minhur/bootstrap-toggle.git",
   "_target": "2.0.0",
